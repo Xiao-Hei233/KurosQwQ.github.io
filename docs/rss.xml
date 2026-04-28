@@ -1,2 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>库罗斯博客更新日志</title><link>https://Xiao-Hei233.github.io/KurosQwQ.github.io</link><description>不定时更新，用作自查日志存档</description><copyright>库罗斯博客更新日志</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/126072777?v=4&amp;size=64</url><title>avatar</title><link>https://Xiao-Hei233.github.io/KurosQwQ.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:27:09 +0000</lastBuildDate><managingEditor>库罗斯博客更新日志</managingEditor><ttl>60</ttl><webMaster>库罗斯博客更新日志</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>库罗斯博客更新日志</title><link>https://Xiao-Hei233.github.io/KurosQwQ.github.io</link><description>不定时更新，用作自查日志存档</description><copyright>库罗斯博客更新日志</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/126072777?v=4&amp;size=64</url><title>avatar</title><link>https://Xiao-Hei233.github.io/KurosQwQ.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:51:52 +0000</lastBuildDate><managingEditor>库罗斯博客更新日志</managingEditor><ttl>60</ttl><webMaster>库罗斯博客更新日志</webMaster><item><title>博客v0.2.1更新日志</title><link>https://Xiao-Hei233.github.io/KurosQwQ.github.io/post/bo-ke-v0.2.1-geng-xin-ri-zhi.html</link><description>1.加入网易云，哔哩哔哩，QQ的个人训练方式，修复图标显示异常问题
+
+2.匿名访客评论功能测试通过
+
+3.更新了登录界面的UI显示，重新优化了图片显示
+
+4.提高系统的稳定性，优化系统的流畅度。</description><guid isPermaLink="true">https://Xiao-Hei233.github.io/KurosQwQ.github.io/post/bo-ke-v0.2.1-geng-xin-ri-zhi.html</guid><pubDate>Tue, 31 Mar 2026 02:29:36 +0000</pubDate></item><item><title>博客v0.1.8更新日志</title><link>https://Xiao-Hei233.github.io/KurosQwQ.github.io/post/bo-ke-v0.1.8-geng-xin-ri-zhi.html</link><description>1.加入更多插件，更好的管理网页功能，提高了网页安全性
+插件列表如下：
+Akismet 反垃圾评论：垃圾评论保护
+Featured Image from URL(将远程媒体用作特色图片及其他，实现图床功能)
+IfElse Pages – Coming Soon and Maintenance Mode(更好的网页维护界面)
+Jetpack(由 WordPress 专家打造的安全、性能和营销工具，保护您的站点)
+Pinyin Slugs(自动将汉字标题转换为拼音别名)
+
+2.实现匿名发布评论功能，现在不用提供个人信息才可以发表你的意见了
+
+3.修改了网页站点的图标，是我喜欢的罗小黑
+
+4.修复了评论界面的UI错误
+
+5.提高系统的稳定性，优化系统的流畅度。</description><guid isPermaLink="true">https://Xiao-Hei233.github.io/KurosQwQ.github.io/post/bo-ke-v0.1.8-geng-xin-ri-zhi.html</guid><pubDate>Sat, 28 Mar 2026 03:15:14 +0000</pubDate></item></channel></rss>
